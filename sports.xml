@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.12 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="Motors TV">
     <display-name lang="en">Motors TV</display-name>
@@ -4639,7 +4639,7 @@
   <programme start="20170821073000 +0100" stop="20170821080000 +0100" channel="LiverpoolFCTV">
     <title lang="en">LFC World</title>
     <sub-title lang="en">2017/18.</sub-title>
-    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by Tweeting using the ?LFCWORLD.(n)</desc>
+    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by Tweeting using the £LFCWORLD.(n)</desc>
     <category lang="en">Football - Club</category>
   </programme>
   <programme start="20170821080000 +0100" stop="20170821081500 +0100" channel="LiverpoolFCTV">
@@ -4705,7 +4705,7 @@
   <programme start="20170821130200 +0100" stop="20170821133000 +0100" channel="LiverpoolFCTV">
     <title lang="en">LFC World</title>
     <sub-title lang="en">2017/18.</sub-title>
-    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by Tweeting using the ?LFCWORLD.(n)</desc>
+    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by Tweeting using the £LFCWORLD.(n)</desc>
     <category lang="en">Football - Club</category>
   </programme>
   <programme start="20170821133000 +0100" stop="20170821140000 +0100" channel="LiverpoolFCTV">
@@ -4838,7 +4838,7 @@
   <programme start="20170821190000 +0100" stop="20170821193000 +0100" channel="LiverpoolFCTV">
     <title lang="en">LFC World</title>
     <sub-title lang="en">2017/18.</sub-title>
-    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by Tweeting using the ?LFCWORLD.(n)</desc>
+    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by Tweeting using the £LFCWORLD.(n)</desc>
     <category lang="en">Football - Club</category>
   </programme>
   <programme start="20170821193000 +0100" stop="20170821200000 +0100" channel="LiverpoolFCTV">
@@ -4998,7 +4998,7 @@
   <programme start="20170822103000 +0100" stop="20170822110000 +0100" channel="LiverpoolFCTV">
     <title lang="en">LFC World</title>
     <sub-title lang="en">2017/18.</sub-title>
-    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by Tweeting using the ?LFCWORLD.(n)</desc>
+    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by Tweeting using the £LFCWORLD.(n)</desc>
     <category lang="en">Football - Club</category>
   </programme>
   <programme start="20170822110000 +0100" stop="20170822120000 +0100" channel="LiverpoolFCTV">
@@ -5065,7 +5065,7 @@
   <programme start="20170822143000 +0100" stop="20170822150000 +0100" channel="LiverpoolFCTV">
     <title lang="en">LFC World</title>
     <sub-title lang="en">2017/18.</sub-title>
-    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by Tweeting using the ?LFCWORLD.(n)</desc>
+    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by Tweeting using the £LFCWORLD.(n)</desc>
     <category lang="en">Football - Club</category>
   </programme>
   <programme start="20170822150000 +0100" stop="20170822150200 +0100" channel="LiverpoolFCTV">
